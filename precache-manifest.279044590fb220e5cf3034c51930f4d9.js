@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93a169a402a13e5bff23d6d55687eb7e",
+    "revision": "f058ac9fb1789ecbe95a30974c54045b",
     "url": "/rominesweeper/index.html"
   },
   {
-    "revision": "3131a105f6328bd9c2c3",
+    "revision": "b4f85f76edd7fb9c47c3",
     "url": "/rominesweeper/static/css/main.b2d12f8f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rominesweeper/static/js/2.3c886981.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3131a105f6328bd9c2c3",
-    "url": "/rominesweeper/static/js/main.6ca04294.chunk.js"
+    "revision": "b4f85f76edd7fb9c47c3",
+    "url": "/rominesweeper/static/js/main.6a81fa80.chunk.js"
   },
   {
     "revision": "56d1b2d6346866d3237f",

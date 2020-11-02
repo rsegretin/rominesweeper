@@ -6,7 +6,7 @@ class Header extends Component {
         return (
             <Grid container>
                 <Grid item xs={12}>
-                    <img className="logo" src="img/logo.jpg" alt=""/>
+                    <img className="logo" src={`${process.env.PUBLIC_URL}/img/logo.jpg`} alt=""/>
                 </Grid>
             </Grid>
         );

@@ -18,8 +18,8 @@ class GameOverDialog extends Component {
           <img
             src={
               this.props.isVictory
-                ? "img/roman-victory.jpg"
-                : "img/roman-defeat.jpg"
+                ? `${process.env.PUBLIC_URL}/img/roman-victory.jpg`
+                : `${process.env.PUBLIC_URL}/img/roman-defeat.jpg`
             }
             alt=""
           />
@@ -42,7 +42,7 @@ class GameOverDialog extends Component {
             Volver al menú
           </Button>
           <Typography variant="caption" className="footnote">
-            (podés mover esta ventana)
+            (podés mover esta ventana si te tapa)
           </Typography>
         </Grid>
       </Dialog>

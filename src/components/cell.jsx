@@ -20,11 +20,11 @@ class GameCell extends Component {
   render() {
     return this.props.status !== cellStatus.UNCOVERED ? (
       <div onClick={this.handleLeftClick} onContextMenu={this.handleRightClick}>
-        <img className="cell" src={`img/box-${this.props.image}.png`} alt=""/>
+        <img className="cell" src={`${process.env.PUBLIC_URL}/img/box-${this.props.image}.png`} alt=""/>
       </div>
     ) : (
       <div>
-        <img className="cell" src={`img/box-${this.props.image}.png`} alt=""/>
+        <img className="cell" src={`${process.env.PUBLIC_URL}/img/box-${this.props.image}.png`} alt=""/>
       </div>
     );
   }

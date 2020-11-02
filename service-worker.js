@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rominesweeper/precache-manifest.2d5c01197259e82367b23827b5c9637d.js"
+  "/rominesweeper/precache-manifest.513fe42cc8eadcc5cab15750366c73ae.js"
 );
 
 self.addEventListener('message', (event) => {

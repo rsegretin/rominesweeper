@@ -30,8 +30,6 @@ export const createGameMatrix = (totalRows, totalCols, totalMines) => {
   // Contador para ir viendo si ya están puestas todas la minas
   let mineCount = 0;
 
-  let cellId = 0;
-
   // Total de cajas
   const totalCells = totalRows * totalCols;
 
@@ -125,7 +123,6 @@ export const createGameMatrix = (totalRows, totalCols, totalMines) => {
 
       newCell.status = cellStatus.COVERED_CLEAR;
       newCell.image = imageName.COVERED_CLEAR_IMG;
-      newCell.id = cellId++;
 
       row.push(newCell);
     }

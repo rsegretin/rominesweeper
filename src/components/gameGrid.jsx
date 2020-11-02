@@ -31,7 +31,7 @@ class GameGrid extends Component {
         cellsRow.push(
           <GameCell
             // key con gameId para que re-renderice cuando se reinicia el juego
-            key={`cell-${this.props.gameMatrix[i][j].id}-game-${this.props.gameId}`}
+            key={`cell-${i}-${j}-game-${this.props.gameId}`}
             image={this.props.gameMatrix[i][j].image}
             status={this.props.gameMatrix[i][j].status}
             notifyClick={(isRightClick) => this.onCellClick(i, j, isRightClick)}

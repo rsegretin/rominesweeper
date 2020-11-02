@@ -1,4 +1,4 @@
-(👉[English version](./README_en.md)👈)
+👉 [English version](./README_en.md) 👈
 
 # Rominesweeper 🔎💣
 

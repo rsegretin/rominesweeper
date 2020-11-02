@@ -1,12 +1,5 @@
 import React, { Component } from "react";
-import {
-  Button,
-  Dialog,
-  DialogTitle,
-  Grid,
-  Paper,
-  Typography,
-} from "@material-ui/core";
+import { Button, Dialog, Grid, Paper, Typography } from "@material-ui/core";
 import Draggable from "react-draggable";
 
 function PaperComponent(props) {
@@ -20,10 +13,7 @@ function PaperComponent(props) {
 class GameOverDialog extends Component {
   render() {
     return (
-      <Dialog
-        open={true}
-        PaperComponent={PaperComponent}
-      >
+      <Dialog open={true} PaperComponent={PaperComponent}>
         <Grid container direction="column" justify="center" alignItems="center">
           <img
             src={

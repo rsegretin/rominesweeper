@@ -4,7 +4,7 @@ import Draggable from "react-draggable";
 
 function PaperComponent(props) {
   return (
-    <Draggable>
+    <Draggable cancel={'button'}>
       <Paper {...props} />
     </Draggable>
   );

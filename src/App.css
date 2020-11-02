@@ -1,0 +1,32 @@
+.menu-input {
+  margin-top: 5px !important;
+  margin-bottom: 10px !important;
+}
+
+.cell {
+  width: 20px;
+  height: 20px;
+}
+
+.row {
+  display: flex;
+  height: 20px;
+}
+
+.btn-end-dialog {
+  margin: 10px !important;
+}
+
+.logo {
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 30px;
+}
+
+.btn-separated {
+  margin-top: 10px !important;
+}
+
+.footnote {
+  margin: 10px !important;
+}

@@ -6,9 +6,9 @@ import { Grid, TextField, Button, Typography } from "@material-ui/core";
 class Menu extends Component {
   state = {
     gameId: 0,
-    rows: 16,
-    cols: 12,
-    totalMines: 50,
+    rows: 14,
+    cols: 10,
+    totalMines: 36,
     mineProbability: 0,
     gameMatrix: [],
     gameOver: false,

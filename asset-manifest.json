@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rominesweeper/static/css/main.b2d12f8f.chunk.css",
-    "main.js": "/rominesweeper/static/js/main.1b88eeb5.chunk.js",
-    "main.js.map": "/rominesweeper/static/js/main.1b88eeb5.chunk.js.map",
+    "main.js": "/rominesweeper/static/js/main.f3b526f6.chunk.js",
+    "main.js.map": "/rominesweeper/static/js/main.f3b526f6.chunk.js.map",
     "runtime-main.js": "/rominesweeper/static/js/runtime-main.e7935655.js",
     "runtime-main.js.map": "/rominesweeper/static/js/runtime-main.e7935655.js.map",
     "static/js/2.3c886981.chunk.js": "/rominesweeper/static/js/2.3c886981.chunk.js",
     "static/js/2.3c886981.chunk.js.map": "/rominesweeper/static/js/2.3c886981.chunk.js.map",
     "index.html": "/rominesweeper/index.html",
-    "precache-manifest.0ad33962d59596e3e3b2723c4b8c855a.js": "/rominesweeper/precache-manifest.0ad33962d59596e3e3b2723c4b8c855a.js",
+    "precache-manifest.ff77659ea4751ea650888c31a84c74b8.js": "/rominesweeper/precache-manifest.ff77659ea4751ea650888c31a84c74b8.js",
     "service-worker.js": "/rominesweeper/service-worker.js",
     "static/css/main.b2d12f8f.chunk.css.map": "/rominesweeper/static/css/main.b2d12f8f.chunk.css.map",
     "static/js/2.3c886981.chunk.js.LICENSE.txt": "/rominesweeper/static/js/2.3c886981.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e7935655.js",
     "static/js/2.3c886981.chunk.js",
     "static/css/main.b2d12f8f.chunk.css",
-    "static/js/main.1b88eeb5.chunk.js"
+    "static/js/main.f3b526f6.chunk.js"
   ]
 }

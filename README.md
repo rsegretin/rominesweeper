@@ -1,3 +1,5 @@
+(👉[English version](./README_en.md)👈)
+
 # Rominesweeper 🔎💣
 
 Un buscaminas con números romanos, para confundir un poco. ¿Por qué no?

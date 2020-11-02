@@ -8,8 +8,8 @@ The app was developed with [React](https://es.reactjs.org/) and uses [Material U
 
 ## Running the app
 
-The project is deployed in Github Pages at
+The project is deployed in Github Pages at https://rsegretin.github.io/rominesweeper/
 
-If you download the project, run `yarn install` at the folder containing `package.json` to download and install dependencies.
+If you prefer you can download the project and run it locally. To do so, after downloading the files, run `yarn install` at the folder containing `package.json` to download and install dependencies. This will require [having yarn previously installed](https://classic.yarnpkg.com/en/docs/install).
 
 Once dependencies are installed, just run `yarn start` to start the app locally at [http://localhost:3000](http://localhost:3000).

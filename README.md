@@ -10,8 +10,8 @@ La app está desarrollada con [React](https://es.reactjs.org/) y utiliza compone
 
 ## Ejecutar la app
 
-El proyecto está publicado en Github Pages en 
+El proyecto está publicado en Github Pages en https://rsegretin.github.io/rominesweeper/
 
-Si preferís descargar el proyecto, ejecutá `yarn install` desde la carpeta que contiene el `package.json` para descargar e instalar las dependencias.
+Si preferís podés descargar el proyecto y correrlo localmente. Para eso, después de descargar todos los archivos, ejecutá `yarn install` desde la carpeta que contiene el `package.json` para descargar e instalar las dependencias. Esto va a requerir [tener instalado yarn](https://classic.yarnpkg.com/es-ES/docs/install/) localmente.
 
 Una vez que las dependencias están instaladas, simplemente ejecutar `yarn start` para iniciar la aplicación localmente en [http://localhost:3000](http://localhost:3000).
